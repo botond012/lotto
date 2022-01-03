@@ -1,0 +1,1 @@
+# generate datas with lotto-creator and put the files into /lotto/src/resources/input.txt
